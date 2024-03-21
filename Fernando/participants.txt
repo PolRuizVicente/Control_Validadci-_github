@@ -1,0 +1,4 @@
+Nom: Fernando
+Edat: 32
+Estudis: ESO
+Professió: NINI
