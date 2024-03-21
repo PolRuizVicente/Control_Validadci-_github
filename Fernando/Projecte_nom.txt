@@ -1,0 +1,1 @@
+"Aquest projecte tindr… com a objectiu crear una APP que doni suport a l'…rea comercial El Sistema es desenvolupara a Angular" 
