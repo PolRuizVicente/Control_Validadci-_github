@@ -2,4 +2,4 @@ Nom: Pedro
 Edat: 25
 Estudis: FP
 Professió: Abogado
-
+Animals : SI

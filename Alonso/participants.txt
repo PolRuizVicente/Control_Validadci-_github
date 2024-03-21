@@ -2,3 +2,4 @@ Nom: Alonso
 Edat: 33
 Estudis: FP
 Professió: Profesor
+Aficions: Videojocs
